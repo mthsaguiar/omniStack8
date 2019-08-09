@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# omniStack8
+
+Projeto de desenvolvimento OmniStack realizado pela Rocketseat
+Objetivos: 
+-FrontEnd: desenvolver uma aplicação nas versões web e mobile utilizando as tecnologias react e react native
+-BackEnd: Através da tecnologia NodeJs, fazer a conecção da aplicação com o banco de dados NoSQL MongoDB.
+>>>>>>> refs/remotes/origin/master
